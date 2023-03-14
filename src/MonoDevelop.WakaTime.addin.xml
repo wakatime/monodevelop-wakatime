@@ -3,7 +3,7 @@
 	namespace="MonoDevelop"
 	name="WakaTime"
 	author="Zhmayev Yaroslav (salaros)"
-	url="https://github.com/salaros/monodevelop-wakatime"
+	url="https://github.com/wakatime/monodevelop-wakatime"
 	copyright=""
 	description="WakaTime is a productivity and time tracking tool for programmers. Once the WakaTime plugin is installed, you get a dashboard with reports about your programming by time, language, project, and branch."
 	category="IDE extensions"
